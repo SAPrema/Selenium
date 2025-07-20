@@ -1,4 +1,4 @@
-# 🧪 JUnit Automation Project
+# JUnit Automation Project
 
 ## 📌 Project Overview
 
@@ -26,13 +26,11 @@ This project contains two separate automation tasks written using **JUnit 5** an
 2. Click on the **Submit** button.
 3. Assert that the **registration was successful**.
 
-### 📸 Output:
+### Output:
 - ✅ **Registration completed** with validation.
-- 📷 Screenshot of successful registration included below.
 
----
 
-## 📊 Task #2: Scrape DSE Table Data
+##  ✅ Task #2: Scrape DSE Table Data
 
 🔗 [DSE Live Share Price](https://dsebd.org/latest_share_price_scroll_by_value.php)
 
@@ -45,7 +43,9 @@ This project contains two separate automation tasks written using **JUnit 5** an
 ### 📁 Output:
 - ✔ File saved: `DSE_Share_Data.txt`
 - ✅ Console prints all share data.
-- 📷 Screenshot of saved file shown below.
+
+  ## 📷 Image Demonstration
+![Form Submission](https://github.com/your-username/your-repo-name/blob/main/form_success.png?raw=true)
 
   ## 🎥 Video Demonstration
 
