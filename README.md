@@ -46,7 +46,7 @@ This project contains two separate automation tasks written using **JUnit 5** an
 
   ## 📷 Image Demonstration
 ![Test](https://github.com/SAPrema/Selenium/blob/master/Screenshot%202025-07-20%20224511.png)
-![Output](https://github.com/SAPrema/Selenium/blob/master/Screenshot%202025-07-20%20224538.png)
+![Output](https://github.com/SAPrema/Selenium/blob/master/output2.png)
 
 
   ## 🎥 Video Demonstration
